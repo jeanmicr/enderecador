@@ -1,0 +1,8 @@
+
+
+
+
+        // await page.$eval('input[name="campo1"]', (input) => (input.value = ''));
+        // await page.$eval('input[name="campo2"]', (input) => (input.value = ''));
+        // await page.$eval('input[name="campo3"]', (input) => (input.value = ''));
+        // await page.$eval('input[name="campo4"]', (input) => (input.value = ''));
