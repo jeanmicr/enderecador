@@ -1,4 +1,3 @@
-const { group } = require('console');
 const puppeteer = require('puppeteer');
 const xlsx = require('xlsx');
 
